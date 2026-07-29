@@ -1,0 +1,1 @@
+# Docker image configuration will be added during project development.

@@ -1,0 +1,15 @@
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Terraform
+*.tfstate
+*.tfstate.*
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
